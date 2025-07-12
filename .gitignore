@@ -208,3 +208,7 @@ __marimo__/
 
 
 *.csv
+
+# Model and Training Artifacts
+/models/distilbert-fa-sentiment-fine-tuned/
+/training_results/
