@@ -1,0 +1,15 @@
+[theme]
+# رنگ اصلی (برای دکمه‌ها و عناصر تعاملی)
+primaryColor="#7792E3"
+
+# رنگ پس‌زمینه اصلی
+backgroundColor="#0E1117"
+
+# رنگ پس‌زمینه ثانویه (مانند سایدبار)
+secondaryBackgroundColor="#282C34"
+
+# رنگ متن
+textColor="#FAFAFA"
+
+# فونت
+font="sans serif"
